@@ -138,7 +138,7 @@ IThub-Project-Management
 
 ---
 
-
+<div align="center">
 
 *Проект разработан в рамках учебной программы колледжа IThub*
 
